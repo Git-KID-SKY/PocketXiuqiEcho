@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.echo.wardrobe.pose":{"loop":true,"bones":{"root":{"position":[-8,0,8],"rotation":[0,"variable.wardrobe_yaw",0]},"door_left":{"rotation":[0,"-105*variable.wardrobe_open",0]},"door_right":{"rotation":[0,"105*variable.wardrobe_open",0]}}}}}

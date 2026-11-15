@@ -1,0 +1,44 @@
+{
+  "echo.companion.step_left": {
+    "category": "neutral",
+    "min_distance": 1,
+    "max_distance": 12,
+    "sounds": [
+      {
+        "name": "sounds/companion/step_left",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "stream": false,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "echo.companion.step_right": {
+    "category": "neutral",
+    "min_distance": 1,
+    "max_distance": 12,
+    "sounds": [
+      {
+        "name": "sounds/companion/step_right",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "stream": false,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "echo.companion.deploy": {
+    "category": "neutral",
+    "min_distance": 1,
+    "max_distance": 16,
+    "sounds": [
+      {
+        "name": "sounds/companion/deploy_pop",
+        "volume": 1,
+        "pitch": 1,
+        "stream": false,
+        "load_on_low_memory": true
+      }
+    ]
+  }
+}

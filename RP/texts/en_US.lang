@@ -1,0 +1,8 @@
+item.echo:companion_doll.name=随行伙伴
+entity.echo:companion.name=伙伴
+action.interact.echo_companion=交互
+tile.echo:companion_wardrobe.name=伙伴衣柜
+tile.echo:companion_wardrobe_top.name=伙伴衣柜
+item.echo:companion_backpack.name=Companion Backpack
+item.echo:companion_guide.name=Companion Handbook
+itemCategory.name.echo_companion=Companion

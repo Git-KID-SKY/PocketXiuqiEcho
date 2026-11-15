@@ -1,0 +1,309 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.echo.cradle.normal",
+        "texture_width": 64,
+        "texture_height": 64,
+        "visible_bounds_width": 4,
+        "visible_bounds_height": 4,
+        "visible_bounds_offset": [
+          0,
+          1,
+          0
+        ]
+      },
+      "bones": [
+        {
+          "name": "root",
+          "pivot": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "waist",
+          "parent": "root",
+          "pivot": [
+            0,
+            12,
+            0
+          ]
+        },
+        {
+          "name": "body",
+          "parent": "waist",
+          "pivot": [
+            0,
+            24,
+            0
+          ]
+        },
+        {
+          "name": "ec_cradle_right",
+          "parent": "body",
+          "pivot": [
+            -5,
+            22,
+            0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -8,
+                12,
+                -2
+              ],
+              "size": [
+                4,
+                12,
+                4
+              ],
+              "uv": [
+                40,
+                16
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ec_cradle_right_sleeve",
+          "parent": "ec_cradle_right",
+          "pivot": [
+            -5,
+            22,
+            0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -8,
+                12,
+                -2
+              ],
+              "size": [
+                4,
+                12,
+                4
+              ],
+              "uv": [
+                40,
+                32
+              ],
+              "inflate": 0.25
+            }
+          ]
+        },
+        {
+          "name": "ec_cradle_left",
+          "parent": "body",
+          "pivot": [
+            5,
+            22,
+            0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                4,
+                12,
+                -2
+              ],
+              "size": [
+                4,
+                12,
+                4
+              ],
+              "uv": [
+                32,
+                48
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ec_cradle_left_sleeve",
+          "parent": "ec_cradle_left",
+          "pivot": [
+            5,
+            22,
+            0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                4,
+                12,
+                -2
+              ],
+              "size": [
+                4,
+                12,
+                4
+              ],
+              "uv": [
+                48,
+                48
+              ],
+              "inflate": 0.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": {
+        "identifier": "geometry.echo.cradle.slim",
+        "texture_width": 64,
+        "texture_height": 64,
+        "visible_bounds_width": 4,
+        "visible_bounds_height": 4,
+        "visible_bounds_offset": [
+          0,
+          1,
+          0
+        ]
+      },
+      "bones": [
+        {
+          "name": "root",
+          "pivot": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "waist",
+          "parent": "root",
+          "pivot": [
+            0,
+            12,
+            0
+          ]
+        },
+        {
+          "name": "body",
+          "parent": "waist",
+          "pivot": [
+            0,
+            24,
+            0
+          ]
+        },
+        {
+          "name": "ec_cradle_right",
+          "parent": "body",
+          "pivot": [
+            -5,
+            22,
+            0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -7,
+                12,
+                -2
+              ],
+              "size": [
+                3,
+                12,
+                4
+              ],
+              "uv": [
+                40,
+                16
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ec_cradle_right_sleeve",
+          "parent": "ec_cradle_right",
+          "pivot": [
+            -5,
+            22,
+            0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -7,
+                12,
+                -2
+              ],
+              "size": [
+                3,
+                12,
+                4
+              ],
+              "uv": [
+                40,
+                32
+              ],
+              "inflate": 0.25
+            }
+          ]
+        },
+        {
+          "name": "ec_cradle_left",
+          "parent": "body",
+          "pivot": [
+            5,
+            22,
+            0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                4,
+                12,
+                -2
+              ],
+              "size": [
+                3,
+                12,
+                4
+              ],
+              "uv": [
+                32,
+                48
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ec_cradle_left_sleeve",
+          "parent": "ec_cradle_left",
+          "pivot": [
+            5,
+            22,
+            0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                4,
+                12,
+                -2
+              ],
+              "size": [
+                3,
+                12,
+                4
+              ],
+              "uv": [
+                48,
+                48
+              ],
+              "inflate": 0.25
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

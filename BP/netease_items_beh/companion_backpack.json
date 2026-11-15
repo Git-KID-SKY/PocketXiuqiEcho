@@ -1,0 +1,1 @@
+{"format_version":"1.10","minecraft:item":{"description":{"identifier":"echo:companion_backpack","category":"none","custom_item_type":"armor"},"components":{"minecraft:max_stack_size":1,"minecraft:max_damage":0,"netease:armor":{"defense":0,"enchantment":0,"armor_slot":1}}}}

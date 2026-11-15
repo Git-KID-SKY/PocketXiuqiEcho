@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"description":{"identifier":"echo:companion_doll_recipe"},"tags":["crafting_table"],"pattern":[" W ","WSW"," C "],"key":{"W":{"item":"minecraft:wool","data":0},"S":{"item":"minecraft:slime_ball"},"C":{"item":"minecraft:chest"}},"result":{"item":"echo:companion_doll","count":1}}}

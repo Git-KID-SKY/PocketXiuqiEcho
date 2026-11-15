@@ -1,0 +1,40 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "PocketXiuqiEcho",
+        "name": "PocketXiuqiEcho",
+        "uuid": "2bb3d81b-1429-4973-9646-aa6910700339",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            18,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "PocketXiuqiEcho",
+            "type": "data",
+            "uuid": "f9f1ddc1-95d9-4388-b38f-b31720d4e592",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "0e753694-afbc-482d-9f23-6b2f65c2aad9",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
